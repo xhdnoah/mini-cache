@@ -1,7 +1,7 @@
 package cache
 
 import (
-	"min-cache/lru"
+	"mini-cache/lru"
 	"sync"
 )
 
